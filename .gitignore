@@ -1,15 +1,33 @@
+# IntelliJ IDEA-specific files
 *.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
+.idea/
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# macOS-specific files
 .DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+
+# Gradle-specific files
+.gradle/
+build/
 local.properties
+
+# Android-specific files (if applicable)
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Exclude compiled files and artifacts
+*.class
+*.jar
+*.war
+*.ear
+
