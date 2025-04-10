@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <!-- Light Theme Colors -->
+    <color name="light_primary">#1976D2</color>
+    <color name="light_primary_variant">#D1C4E9</color>
+    <color name="light_on_primary">#212121</color>
+
+    <color name="light_secondary">#F8F9FA</color>
+    <color name="light_secondary_variant">#E9ECEF</color>
+    <color name="light_on_secondary">#212529</color>
+
+    <color name="light_background">#EDE7F6</color>
+    <color name="light_on_background">#212121</color>
+
+    <color name="light_surface">#EDE7F6</color>
+    <color name="light_on_surface">#212121</color>
+
+    <color name="light_stroke">#ADB5BD</color>
+
+    <!-- Dark Theme Colors -->
+    <color name="dark_primary">#1976D2</color>
+    <color name="dark_primary_variant">#424242</color>
+    <color name="dark_on_primary">#E9ECEF</color>
+
+    <color name="dark_secondary">#212529</color>
+    <color name="dark_secondary_variant">#343A40</color>
+    <color name="dark_on_secondary">#F8F9FA</color>
+
+    <color name="dark_background">#3f3649</color>
+    <color name="dark_on_background">#ebe0ff</color>
+
+    <color name="dark_surface">#46325d</color>
+    <color name="dark_on_surface">#dac7ff</color>
+
+    <color name="dark_stroke">#000000</color>
+</resources>

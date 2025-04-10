@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LabelXtract</string>
+    <string name="scanning">Numérisation</string>
+    <string name="label_information">Informations de l\'étiquette</string>
+    <string name="close">Fermer</string>
+    <string name="copy">Copier</string>
+    <string name="error_missing_fields">Champs manquants ou non valides : %1$s\n\nVeuillez rescanner et réessayer.</string>
+    <string name="dismiss_button">Pour fermer l\'aperçu.</string>
+    <string name="scanned_image">Image numérisée</string>
+</resources>

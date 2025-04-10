@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LabelXtract</string>
+    <string name="scanning">Scanning</string>
+    <string name="label_information">Label Information</string>
+    <string name="close">Close</string>
+    <string name="copy">Copy</string>
+    <string name="empty_string" translatable="false"></string>
+    <string name="error_missing_fields">Missing or invalid fields: %1$s\n\nPlease rescan and try again.</string>
+    <string name="dismiss_button">To dismiss the preview.</string>
+    <string name="scanned_image">Scanned Image</string>
+</resources>

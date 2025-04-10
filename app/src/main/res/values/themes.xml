@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LabelXtract" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/light_primary</item>
+        <item name="colorOnPrimary">@color/dark_on_primary</item>
+
+        <item name="colorSecondary">@color/light_secondary</item>
+        <item name="colorSecondaryVariant">@color/light_secondary_variant</item>
+        <item name="colorOnSecondary">@color/light_on_secondary</item>
+
+        <item name="strokeColor">@color/light_stroke</item>
+    </style>
+
+    <style name="Theme.LabelXtract" parent="Base.Theme.LabelXtract" />
+
+</resources>
