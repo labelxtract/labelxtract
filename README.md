@@ -320,7 +320,7 @@ The **LabelXtract** project was developed by the following team members as part 
 | Ekene Ndubueze  | Developer, QA, Tester     | [GitHub Profile](https://github.com/Ozi-Tech)     |
 | Naomi Bell     | Developer, UI/UX, Tester         | [GitHub Profile](https://github.com/bell0418)     |
 | Ian Philips  | Developer, Business Analyst, Tester         | [GitHub Profile](https://github.com/phil0440)     |
-| Gulnur Ospanova  | Developer, Architect/Researcher, Tester      | [GitHub Profile](https://github.com/gulnurkaztai)     |
+| Gulnur Ospanova  | Developer, Architect/Researcher, Tester      | [GitHub Profile](https://github.com/gulnuros)     |
 | Milan Neven  | Developer, Architect, Tester | [GitHub Profile](https://github.com/MilanNeven)     |
 
 ---
